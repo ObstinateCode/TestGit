@@ -5,7 +5,7 @@ public class TestMain {
         //System.out.println("我又改了。。。。");
         //git config --global http.sslVerify "true"
 
-        System.out.println("测试回退");
+        System.out.println("测试回退。。");
     }
 
 }
